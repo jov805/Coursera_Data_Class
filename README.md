@@ -26,5 +26,5 @@ It can be easily processed using Rstudio for the R statistical Project.
 
 Additional information about the variables, data, and transformations is made available to you through the codebook.MD file. 
 
-The final product of the project can be found in the file “tidydata.txt”. It is comprised of 180 observations (30 subjexts x 6 acitivites) and 76 variables (ID, activityID, Activity, means and standard deviations). Overall this data represents the average means and standard deviations of every subecjt and activity that comprised to original dataset.
+The final product of the project can be found in the file “tidydata.txt”. It is comprised of 180 observations (30 subjexts x 6 acitivites) and 76 variables (ID, activityID, Activity, means and standard deviations). Overall this data represents the average means and standard deviations of every subject and activity that comprised the original dataset.
 
